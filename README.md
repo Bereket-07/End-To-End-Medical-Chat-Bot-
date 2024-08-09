@@ -19,6 +19,10 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-2 . pip install -r requirements.txt
-3. python app.py
+   git clone https://github.com/Bereket-07/End-To-End-Medical-Chat-Bot-.git
+2. **pip install  requirements.txt**
+      ```bash
+                 pip install -r requirements.txt     
+3. **run the server**
+   ```bash
+          python app.py
